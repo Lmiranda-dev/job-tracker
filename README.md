@@ -110,4 +110,3 @@ Strategic indexes on `application_status`, `application_date`, and `company_id` 
 
 Luis Miranda - Computer Engineering Graduate  
 Email: Luismiranda156@gmail.com  
-LinkedIn: linkedin.com/in/luis-miranda-bb68a329a
